@@ -1,0 +1,8 @@
+prefix - cntrl+b
+creating session--> tmux new -s <session-name>
+prefix+ d --> detach tmux and then coonect to tmux using tmux attach -t <name>
+prefix+ , --> name the window
+prefix+ %  --> vertical split
+prefix+ " --> horizontal split
+prefix+ z --> zoom in when in split window
+prefix+ arrow --> to move split windows
